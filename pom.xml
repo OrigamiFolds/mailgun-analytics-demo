@@ -18,6 +18,8 @@
         <module>4. Creating a log file</module>
         <module>4. Creating a log file/4.1 JSON Log File Serialization</module>
         <module>4. Creating a log file/4.2 Structured JSON Log File</module>
+        <module>4. Creating a log file/4.3 Creating Plain Text Log File</module>
+        <module>4. Creating a log file/4.4 Schedule the job</module>
     </modules>
 
     <properties>
