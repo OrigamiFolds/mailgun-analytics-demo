@@ -42,7 +42,7 @@ public class Main {
             simplifiedEvents.add(eventMap);
         }
         try {
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("custom-evens.json"), simplifiedEvents);
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("custom-events.json"), simplifiedEvents);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
