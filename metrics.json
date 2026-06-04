@@ -1,0 +1,806 @@
+{
+  "start" : "Wed, 03 Jun 2026 08:09:32 +0000",
+  "end" : "Thu, 04 Jun 2026 08:09:32 +0000",
+  "items" : [ {
+    "id" : "12NqoclwSPufD-c91rnxMg",
+    "event" : "accepted",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : "HTTP",
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "mdu.sibisi@zoho.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "mdu.sibisi@zoho.com",
+      "iipPoolId" : null,
+      "sending-ip" : null,
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQVTng-RzCilBV9HF6r8GvZwRt5pZA",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQVTng-RzCilBV9HF6r8GvZwRt5pZA" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <mdu.sibisi@zoho.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604020951.d7dbbc0ed6f6af62@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 558,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:09:51.016Z",
+    "originating-ip" : "105.242.226.162",
+    "api-key-id" : "393d9e87-0e07468f",
+    "delivered-at" : null,
+    "delivery-status" : null,
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "zoho.com",
+    "recipient-provider" : null,
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : null,
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "0BOZsaOlR7afMKqTcP5ypg",
+    "event" : "delivered",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : null,
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "mdu.sibisi@zoho.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "mdu.sibisi@zoho.com",
+      "iipPoolId" : null,
+      "sending-ip" : "204.220.184.57",
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQVTng-RzCilBV9HF6r8GvZwRt5pZA",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQVTng-RzCilBV9HF6r8GvZwRt5pZA" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <mdu.sibisi@zoho.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604020951.d7dbbc0ed6f6af62@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 558,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:09:52.278Z",
+    "originating-ip" : null,
+    "api-key-id" : null,
+    "delivered-at" : null,
+    "delivery-status" : {
+      "message" : "Message received",
+      "code" : 250,
+      "description" : null,
+      "tls" : true,
+      "utf8" : null,
+      "attempt-no" : 1,
+      "bounce-type" : null,
+      "session-seconds" : 1.258,
+      "retry-seconds" : null,
+      "enhanced-code" : null,
+      "mx-host" : "smtpin.zoho.com",
+      "certificate-verified" : true,
+      "first-delivery-attempt-seconds" : 0,
+      "last-code" : null,
+      "last-message" : null
+    },
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "zoho.com",
+    "recipient-provider" : "Other",
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : "mx._domainkey.sandbox.mgsend.net",
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "t0_JD_uFSpKisX1H0SOeDQ",
+    "event" : "accepted",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : "HTTP",
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : null,
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQV6j_LJYtUuUqVMhqWd207RydtyZg",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQV6j_LJYtUuUqVMhqWd207RydtyZg" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604020958.b5ad47a950acdf1f@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:09:58.235Z",
+    "originating-ip" : "105.242.226.162",
+    "api-key-id" : "393d9e87-0e07468f",
+    "delivered-at" : null,
+    "delivery-status" : null,
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : null,
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : null,
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "FU2YjGSlTK61hVMIaSIdsg",
+    "event" : "delivered",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : null,
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : "204.220.184.57",
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQV6j_LJYtUuUqVMhqWd207RydtyZg",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQV6j_LJYtUuUqVMhqWd207RydtyZg" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604020958.b5ad47a950acdf1f@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:01.432Z",
+    "originating-ip" : null,
+    "api-key-id" : null,
+    "delivered-at" : null,
+    "delivery-status" : {
+      "message" : "ok dirdel",
+      "code" : 250,
+      "description" : null,
+      "tls" : true,
+      "utf8" : null,
+      "attempt-no" : 1,
+      "bounce-type" : null,
+      "session-seconds" : 3.196,
+      "retry-seconds" : null,
+      "enhanced-code" : null,
+      "mx-host" : "mta6.am0.yahoodns.net",
+      "certificate-verified" : true,
+      "first-delivery-attempt-seconds" : 0,
+      "last-code" : null,
+      "last-message" : null
+    },
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : "Yahoo US",
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : "mx._domainkey.sandbox.mgsend.net",
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "Kzww3-veTKSlbD8tE7OMTw",
+    "event" : "accepted",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : "HTTP",
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : null,
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQV640GvMjr1t4lCHKWVxjWSmnuNZg",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQV640GvMjr1t4lCHKWVxjWSmnuNZg" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021003.70a5776461f89ca5@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:03.939Z",
+    "originating-ip" : "105.242.226.162",
+    "api-key-id" : "393d9e87-0e07468f",
+    "delivered-at" : null,
+    "delivery-status" : null,
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : null,
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : null,
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "GJSWHr8rR9-lB6XYPdyovg",
+    "event" : "delivered",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : null,
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : "204.220.184.55",
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQV640GvMjr1t4lCHKWVxjWSmnuNZg",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQV640GvMjr1t4lCHKWVxjWSmnuNZg" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021003.70a5776461f89ca5@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:07.283Z",
+    "originating-ip" : null,
+    "api-key-id" : null,
+    "delivered-at" : null,
+    "delivery-status" : {
+      "message" : "ok dirdel",
+      "code" : 250,
+      "description" : null,
+      "tls" : true,
+      "utf8" : null,
+      "attempt-no" : 1,
+      "bounce-type" : null,
+      "session-seconds" : 3.343,
+      "retry-seconds" : null,
+      "enhanced-code" : null,
+      "mx-host" : "mta7.am0.yahoodns.net",
+      "certificate-verified" : true,
+      "first-delivery-attempt-seconds" : 0,
+      "last-code" : null,
+      "last-message" : null
+    },
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : "Yahoo US",
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : "mx._domainkey.sandbox.mgsend.net",
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "KFQnTlDZSuWnU2SINR0lbw",
+    "event" : "accepted",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : "HTTP",
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : null,
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQUMq0I4R0lm6fZCDqlrnByvzcaKag",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQUMq0I4R0lm6fZCDqlrnByvzcaKag" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021021.8ecfaba05f7ea1e6@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:21.444Z",
+    "originating-ip" : "105.242.226.162",
+    "api-key-id" : "393d9e87-0e07468f",
+    "delivered-at" : null,
+    "delivery-status" : null,
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : null,
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : null,
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "TkBqsdFFTAifV75HHxG8KQ",
+    "event" : "delivered",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : null,
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "bearth2501@yahoo.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "bearth2501@yahoo.com",
+      "iipPoolId" : null,
+      "sending-ip" : "204.220.184.57",
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQUMq0I4R0lm6fZCDqlrnByvzcaKag",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQUMq0I4R0lm6fZCDqlrnByvzcaKag" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <bearth2501@yahoo.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021021.8ecfaba05f7ea1e6@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 559,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:24.630Z",
+    "originating-ip" : null,
+    "api-key-id" : null,
+    "delivered-at" : null,
+    "delivery-status" : {
+      "message" : "ok dirdel",
+      "code" : 250,
+      "description" : null,
+      "tls" : true,
+      "utf8" : null,
+      "attempt-no" : 1,
+      "bounce-type" : null,
+      "session-seconds" : 3.185,
+      "retry-seconds" : null,
+      "enhanced-code" : null,
+      "mx-host" : "mta7.am0.yahoodns.net",
+      "certificate-verified" : true,
+      "first-delivery-attempt-seconds" : 0,
+      "last-code" : null,
+      "last-message" : null
+    },
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "yahoo.com",
+    "recipient-provider" : "Yahoo US",
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : "mx._domainkey.sandbox.mgsend.net",
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "lP3AAYVuQYW8JsLg1glPlA",
+    "event" : "accepted",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : "HTTP",
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "mdu.sibisi@zoho.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "mdu.sibisi@zoho.com",
+      "iipPoolId" : null,
+      "sending-ip" : null,
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQUqrVOnp6Chk-ZGUIHmHZRSnpiYag",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQUqrVOnp6Chk-ZGUIHmHZRSnpiYag" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <mdu.sibisi@zoho.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021026.4efa41f6d51bf1ba@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 558,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:26.645Z",
+    "originating-ip" : "105.242.226.162",
+    "api-key-id" : "393d9e87-0e07468f",
+    "delivered-at" : null,
+    "delivery-status" : null,
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "zoho.com",
+    "recipient-provider" : null,
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : null,
+    "client-info" : null,
+    "mailing-list" : null
+  }, {
+    "id" : "tgGBCw6QT6uKaUQWxEurzA",
+    "event" : "delivered",
+    "account" : {
+      "id" : "6a05c22c90442fd6929669d2",
+      "parent-id" : null
+    },
+    "campaigns" : null,
+    "tags" : null,
+    "method" : null,
+    "domain" : {
+      "name" : "sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+    },
+    "recipient" : "mdu.sibisi@zoho.com",
+    "envelope" : {
+      "sender" : "postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org",
+      "transport" : "smtp",
+      "targets" : "mdu.sibisi@zoho.com",
+      "iipPoolId" : null,
+      "sending-ip" : "204.220.184.55",
+      "i-ip-pool-id" : null
+    },
+    "storage" : {
+      "region" : "us-west1",
+      "env" : "production",
+      "key" : "BAABAQUqrVOnp6Chk-ZGUIHmHZRSnpiYag",
+      "url" : [ "https://storage-us-west1.api.mailgun.net/v3/domains/sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org/messages/BAABAQUqrVOnp6Chk-ZGUIHmHZRSnpiYag" ]
+    },
+    "template" : null,
+    "message" : {
+      "headers" : {
+        "to" : "Mduduzi Sibisi <mdu.sibisi@zoho.com>",
+        "from" : "Mailgun Sandbox <postmaster@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org>",
+        "subject" : "Hello Mduduzi Sibisi",
+        "message-id" : "20260604021026.4efa41f6d51bf1ba@sandbox6fdfafd3d78b40fa8aa5711f6f9e3d79.mailgun.org"
+      },
+      "attachments" : null,
+      "recipients" : null,
+      "size" : 558,
+      "scheduled-for" : null
+    },
+    "flags" : {
+      "is-authenticated" : true,
+      "is-system-test" : false,
+      "is-routed" : false,
+      "is-amp" : null,
+      "is-test-mode" : false,
+      "is-delayed-bounce" : false,
+      "is-callback" : false,
+      "is-encrypted" : null
+    },
+    "ip" : null,
+    "geolocation" : null,
+    "severity" : null,
+    "reason" : null,
+    "routes" : null,
+    "url" : null,
+    "ideliveryOptimizer" : null,
+    "@timestamp" : "2026-06-04T02:10:27.847Z",
+    "originating-ip" : null,
+    "api-key-id" : null,
+    "delivered-at" : null,
+    "delivery-status" : {
+      "message" : "Message received",
+      "code" : 250,
+      "description" : null,
+      "tls" : true,
+      "utf8" : null,
+      "attempt-no" : 1,
+      "bounce-type" : null,
+      "session-seconds" : 1.201,
+      "retry-seconds" : null,
+      "enhanced-code" : null,
+      "mx-host" : "smtpin.zoho.com",
+      "certificate-verified" : true,
+      "first-delivery-attempt-seconds" : 0,
+      "last-code" : null,
+      "last-message" : null
+    },
+    "i-delivery-optimizer" : null,
+    "recipient-domain" : "zoho.com",
+    "recipient-provider" : "Other",
+    "log-level" : "info",
+    "user-variables" : "{}",
+    "primary-dkim" : "mx._domainkey.sandbox.mgsend.net",
+    "client-info" : null,
+    "mailing-list" : null
+  } ],
+  "pagination" : {
+    "first" : null,
+    "last" : "eyJvIjoiQHRpbWVzdGFtcDphc2MiLCJjIjp7IkB0aW1lc3RhbXAiOiIifSwicyI6MTAsInAiOnRydWV9",
+    "next" : "eyJvIjoiQHRpbWVzdGFtcDphc2MiLCJjIjp7IkB0aW1lc3RhbXAiOiIifSwiYiI6eyJkb21haW4iOnsibmFtZSI6InNhbmRib3g2ZmRmYWZkM2Q3OGI0MGZhOGFhNTcxMWY2ZjllM2Q3OS5tYWlsZ3VuLm9yZyJ9LCJhY2NvdW50Ijp7ImlkIjoiNmEwNWMyMmM5MDQ0MmZkNjkyOTY2OWQyIiwibmFtZSI6IjJkYTl0aHB3ciJ9LCJmbGFncyI6eyJpcy1hdXRoZW50aWNhdGVkIjp0cnVlLCJpcy1zeXN0ZW0tdGVzdCI6ZmFsc2UsImlzLXJvdXRlZCI6ZmFsc2UsImlzLXRlc3QtbW9kZSI6ZmFsc2UsImlzLWRlbGF5ZWQtYm91bmNlIjpmYWxzZSwiaXMtY2FsbGJhY2siOmZhbHNlLCJpcy13ZWJob29rIjpmYWxzZX0sIm1lc3NhZ2UiOnsiaGVhZGVycyI6eyJ0byI6Ik1kdWR1emkgU2liaXNpIFx1MDAzY21kdS5zaWJpc2lAem9oby5jb21cdTAwM2UiLCJtZXNzYWdlLWlkIjoiMjAyNjA2MDQwMjEwMjYuNGVmYTQxZjZkNTFiZjFiYUBzYW5kYm94NmZkZmFmZDNkNzhiNDBmYThhYTU3MTFmNmY5ZTNkNzkubWFpbGd1bi5vcmciLCJmcm9tIjoiTWFpbGd1biBTYW5kYm94IFx1MDAzY3Bvc3RtYXN0ZXJAc2FuZGJveDZmZGZhZmQzZDc4YjQwZmE4YWE1NzExZjZmOWUzZDc5Lm1haWxndW4ub3JnXHUwMDNlIiwic3ViamVjdCI6IkhlbGxvIE1kdWR1emkgU2liaXNpIn0sInNpemUiOjU1OH0sInN0b3JhZ2UiOnsicmVnaW9uIjoidXMtd2VzdDEiLCJlbnYiOiJwcm9kdWN0aW9uIiwia2V5IjoiQkFBQkFRVXFyVk9ucDZDaGstWkdVSUhtSFpSU25waVlhZyIsInVybCI6WyJodHRwczovL3N0b3JhZ2UtdXMtd2VzdDEuYXBpLm1haWxndW4ubmV0L3YzL2RvbWFpbnMvc2FuZGJveDZmZGZhZmQzZDc4YjQwZmE4YWE1NzExZjZmOWUzZDc5Lm1haWxndW4ub3JnL21lc3NhZ2VzL0JBQUJBUVVxclZPbnA2Q2hrLVpHVUlIbUhaUlNucGlZYWciXX0sImRlbGl2ZXJ5LXN0YXR1cyI6eyJtZXNzYWdlIjoiTWVzc2FnZSByZWNlaXZlZCIsIm14LWhvc3QiOiJzbXRwaW4uem9oby5jb20iLCJteC1ob3N0LWlwIjoiMjA0LjE0MS40My4yMyIsInNlc3Npb24tc2Vjb25kcyI6MS4yMDEsImNvZGUiOjI1MCwiZmlyc3QtZGVsaXZlcnktYXR0ZW1wdC1zZWNvbmRzIjowLjA3NCwiYXR0ZW1wdC1ubyI6MSwiY2VydGlmaWNhdGUtdmVyaWZpZWQiOnRydWUsInRscyI6dHJ1ZX0sImVudmVsb3BlIjp7InNlbmRlciI6InBvc3RtYXN0ZXJAc2FuZGJveDZmZGZhZmQzZDc4YjQwZmE4YWE1NzExZjZmOWUzZDc5Lm1haWxndW4ub3JnIiwidHJhbnNwb3J0Ijoic210cCIsInNlbmRpbmctaXAiOiIyMDQuMjIwLjE4NC41NSIsInRhcmdldHMiOiJtZHUuc2liaXNpQHpvaG8uY29tIn0sInJlY2lwaWVudC1kb21haW4iOiJ6b2hvLmNvbSIsInJlY2lwaWVudC1wcm92aWRlciI6Ik90aGVyIiwiaWQiOiJ0Z0dCQ3c2UVQ2dUthVVFXeEV1cnpBIiwibG9nLWxldmVsIjoiaW5mbyIsInVzZXItdmFyaWFibGVzIjoie30iLCJyZWNpcGllbnQiOiJtZHUuc2liaXNpQHpvaG8uY29tIiwicHJpbWFyeS1ka2ltIjoibXguX2RvbWFpbmtleS5zYW5kYm94Lm1nc2VuZC5uZXQiLCJldmVudCI6ImRlbGl2ZXJlZCIsIkB0aW1lc3RhbXAiOiIyMDI2LTA2LTA0VDAyOjEwOjI3Ljg0N1oiLCJzb3J0LXZhbHVlcyI6WzE3ODA1MzkwMjc4NDcsInRnR0JDdzZRVDZ1S2FVUVd4RXVyekEiXX0sInMiOjEwLCJwIjpmYWxzZX0",
+    "previous" : null,
+    "total" : null
+  },
+  "aggregates" : {
+    "all" : null,
+    "metrics" : null
+  }
+}
