@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.1 Simple Log Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.1 Simple Log Demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.2 Log Response Properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.2 Log Response Properties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.3 Using a Filter Object/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.3 Using a Filter Object/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.4 Paginating Log Results/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/1.4 Paginating Log Results/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1. Configuring and Using The Mailgun Logs API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/2.1 Fetching Suppressions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/2.1 Fetching Suppressions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/2.2 Add Suppressions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/2.2 Add Suppressions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2. Pulling Suppression Data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.1 Fetching Metrics Stats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.1 Fetching Metrics Stats/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.2 Filter Your Results by Stats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.2 Filter Your Results by Stats/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.3 Working with Tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/3.3 Working with Tags/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3. Working with Stats and Tags/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
