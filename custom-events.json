@@ -1,0 +1,51 @@
+[ {
+  "Event" : "accepted\n",
+  "Timestamp:" : "2026-06-04T02:09:51.016Z\n",
+  "Recipient" : "mdu.sibisi@zoho.com\n",
+  "ID" : "12NqoclwSPufD-c91rnxMg\n"
+}, {
+  "Event" : "delivered\n",
+  "Timestamp:" : "2026-06-04T02:09:52.278Z\n",
+  "Recipient" : "mdu.sibisi@zoho.com\n",
+  "ID" : "0BOZsaOlR7afMKqTcP5ypg\n"
+}, {
+  "Event" : "accepted\n",
+  "Timestamp:" : "2026-06-04T02:09:58.235Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "t0_JD_uFSpKisX1H0SOeDQ\n"
+}, {
+  "Event" : "delivered\n",
+  "Timestamp:" : "2026-06-04T02:10:01.432Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "FU2YjGSlTK61hVMIaSIdsg\n"
+}, {
+  "Event" : "accepted\n",
+  "Timestamp:" : "2026-06-04T02:10:03.939Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "Kzww3-veTKSlbD8tE7OMTw\n"
+}, {
+  "Event" : "delivered\n",
+  "Timestamp:" : "2026-06-04T02:10:07.283Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "GJSWHr8rR9-lB6XYPdyovg\n"
+}, {
+  "Event" : "accepted\n",
+  "Timestamp:" : "2026-06-04T02:10:21.444Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "KFQnTlDZSuWnU2SINR0lbw\n"
+}, {
+  "Event" : "delivered\n",
+  "Timestamp:" : "2026-06-04T02:10:24.630Z\n",
+  "Recipient" : "bearth2501@yahoo.com\n",
+  "ID" : "TkBqsdFFTAifV75HHxG8KQ\n"
+}, {
+  "Event" : "accepted\n",
+  "Timestamp:" : "2026-06-04T02:10:26.645Z\n",
+  "Recipient" : "mdu.sibisi@zoho.com\n",
+  "ID" : "lP3AAYVuQYW8JsLg1glPlA\n"
+}, {
+  "Event" : "delivered\n",
+  "Timestamp:" : "2026-06-04T02:10:27.847Z\n",
+  "Recipient" : "mdu.sibisi@zoho.com\n",
+  "ID" : "tgGBCw6QT6uKaUQWxEurzA\n"
+} ]
