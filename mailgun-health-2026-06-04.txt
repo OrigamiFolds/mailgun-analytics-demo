@@ -1,0 +1,69 @@
+-----------------------------
+-----  LOG DATA ----------------------------------
+ID: 12NqoclwSPufD-c91rnxMg
+Event: accepted
+Recipient: mdu.sibisi@zoho.com
+Timestamp: 2026-06-04T02:09:51.016Z
+-----------------------------
+ID: 0BOZsaOlR7afMKqTcP5ypg
+Event: delivered
+Recipient: mdu.sibisi@zoho.com
+Timestamp: 2026-06-04T02:09:52.278Z
+-----------------------------
+ID: t0_JD_uFSpKisX1H0SOeDQ
+Event: accepted
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:09:58.235Z
+-----------------------------
+ID: FU2YjGSlTK61hVMIaSIdsg
+Event: delivered
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:10:01.432Z
+-----------------------------
+ID: Kzww3-veTKSlbD8tE7OMTw
+Event: accepted
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:10:03.939Z
+-----------------------------
+ID: GJSWHr8rR9-lB6XYPdyovg
+Event: delivered
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:10:07.283Z
+-----------------------------
+ID: KFQnTlDZSuWnU2SINR0lbw
+Event: accepted
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:10:21.444Z
+-----------------------------
+ID: TkBqsdFFTAifV75HHxG8KQ
+Event: delivered
+Recipient: bearth2501@yahoo.com
+Timestamp: 2026-06-04T02:10:24.630Z
+-----------------------------
+ID: lP3AAYVuQYW8JsLg1glPlA
+Event: accepted
+Recipient: mdu.sibisi@zoho.com
+Timestamp: 2026-06-04T02:10:26.645Z
+-----------------------------
+ID: tgGBCw6QT6uKaUQWxEurzA
+Event: delivered
+Recipient: mdu.sibisi@zoho.com
+Timestamp: 2026-06-04T02:10:27.847Z
+-----------------------------
+-----------------------------
+-----  SUPPRESSION LIST COUNT ----------------------------------
+Bounce List Size: 0
+Complaints List Size: 1
+-----------------------------
+-----------------------------
+-----  AGGREGATES AND STATS  ----------------------------------
+Delivered Rate: null
+Failed Count: 0
+Sent Count: 5
+Webhook Count: null
+-----------------------------
+Delivered Rate: null
+Failed Count: 0
+Sent Count: 11
+Webhook Count: null
+-----------------------------
